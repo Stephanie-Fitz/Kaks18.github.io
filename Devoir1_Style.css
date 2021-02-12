@@ -40,15 +40,15 @@
 
 .image {
    width: 24vw;
-   overflow: hidden; 
+    
    margin-top: 3vw;
    margin-left: 50px;
-   display: block;
+   
 
 }
 .image2 {
    width: 50vw;
-   overflow: hidden; 
+   
    margin-top: 10vw;
    margin-left: 600px; 
 
