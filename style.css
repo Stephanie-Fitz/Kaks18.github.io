@@ -1,8 +1,14 @@
 .main {
     background-color: #f4c494;
-   
 }
 
+.precision {
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
 
 
 .paragraphe {
@@ -45,6 +51,7 @@ margin-left: 550px;
 }
 .navigation-groupe {
     margin-top: 40px;
+    text-align: center;
 }
 
 .navigation-boutton:hover {
