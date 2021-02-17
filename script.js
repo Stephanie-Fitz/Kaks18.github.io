@@ -1,4 +1,4 @@
-// cet objet contient
+/*// cet objet contient
 function Model() {
     model = this
 
