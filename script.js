@@ -97,4 +97,4 @@ window.addEventListener("load", function() {
     // on crée notre controller en le liant au view et au model, puis on l'initialise
     let controller = new Controller(model, view)
     controller.initialize()
-})
+}*/
