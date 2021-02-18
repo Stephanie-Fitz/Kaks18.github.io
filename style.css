@@ -64,9 +64,16 @@ a {
     margin-top: 1vw;
 }
 
-/* maquette.html et survoldestechniques.html */
+/* maquette.html */
 .pages {
     text-align: center;
+    margin-right: 6vw;
+}
+
+/* survoldestechniques.html */
+.liens {
+    text-align: center;
+    margin-top: 40px;
 }
 
 /* maquette.html et survoldestechniques.html */
